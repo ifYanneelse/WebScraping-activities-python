@@ -1,2 +1,1 @@
-# WebScraping-activities-python
-Web Scraping studies with Python
+This repository contains all Python code used during webscraping activities.
